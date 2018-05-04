@@ -1,5 +1,5 @@
 # word2vec-SGNS
-word2vec skip-gram with negative sampling, implemented with pytorch
+word2vec skip-gram with negative sampling, implemented with pytorch\\
 I know this is totally useless, just for practice.
 
 ## usage
